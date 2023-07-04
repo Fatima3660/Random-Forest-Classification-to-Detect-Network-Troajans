@@ -7,7 +7,8 @@ Trojans are a growing concern in todays world, since they are specialised in tri
 2) Most antiviruses uses static signaure analysis by comparing hash values of the malware detected to a large database of previously detected malware. This becomes difficult to detect Troans since even though the functionality stays the same, a slight change in code changes the hash value.
 3) Trojans quickly spread the moment it is installed and ran on the device so by the time traditional antiviruses scan for this file amoung the millions of file a average user has, the Trojan will successfully execute its fucntionality.
 
-The project will be broken down into 3 sections:
+### The project will be broken down into 3 sections:
 1) Training and Testing the random forest algorithm using Kaggle dataset
 2) Demonstration of a closed Nat Network attack on windows 10 using kali linux
 3) Testing on real world dataset collected from WireShark windows 10 attack 
+
