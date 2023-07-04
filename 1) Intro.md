@@ -11,4 +11,3 @@ Trojans are a growing concern in todays world, since they are specialised in tri
 1) Training and Testing the random forest algorithm using Kaggle dataset
 2) Demonstration of a closed Nat Network attack on windows 10 using kali linux
 3) Testing on real world dataset collected from WireShark windows 10 attack 
-
