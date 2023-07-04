@@ -21,5 +21,5 @@ Feel free to explore the contents of this repository, gain insights from the res
 This repository is licensed under [INSERT LICENSE NAME]. Refer to the LICENSE.md file for more information.
 
 ### Acknowledgments
-I would like to express my gratitude to my supervisors, lecturers and Partner for their guidance and support throughout the research and writing process and for giving me all the motivation to move forward, thank you.
+I would like to express my gratitude to my supervisors, lecturers and family for their guidance and support throughout the research and writing process and for giving me all the motivation to move forward, thank you.
 
