@@ -17,6 +17,5 @@ from sklearn.ensemble import RandomForestClassifier #the random forest classifie
 from sklearn.feature_selection import SelectFromModel #used to extract feature from the dataset
 from sklearn.metrics import accuracy_score #used to calculate the accuracy value of the random forest detection
 import seaborn as sns #used to create bar plots
-ln
+
 ```
-khllk
